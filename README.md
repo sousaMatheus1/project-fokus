@@ -27,7 +27,7 @@ This project is a time management application based on the Pomodoro technique, d
 ---
 
 ### 🔗 Quick Links
-* **Live Demo (Vercel):** [Insert your Vercel link here]
+* **Live Demo (Vercel):** https://project-fokus-woad.vercel.app/
 * **LinkedIn Profile:** https://www.linkedin.com/in/matheus-sousa-74220b1a3/
 * **Course 1:** https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom
 * **Course 2:** https://cursos.alura.com.br/course/javascript-manipulacao-elementos-localstorage
