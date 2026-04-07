@@ -1,6 +1,3 @@
-Aqui está a versão do README formatada em inglês, mantendo a estrutura técnica, o tom neutro e os espaços solicitados para os seus links.
-
-Markdown
 # Fokus Project - Pomodoro Timer
 
 This project is a time management application based on the Pomodoro technique, developed to practice DOM manipulation and data persistence in the browser.
